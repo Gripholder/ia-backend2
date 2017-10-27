@@ -1,0 +1,18 @@
+[
+  {
+    "request": "hello",
+    "answer": "hi"
+  },
+  {
+    "request": "hi",
+    "answer": "hello"
+  },
+  {
+    "request": "hey",
+    "answer": "hey there!"
+  },
+  {
+    "request": "what is your name",
+    "answer": "Mora"
+  }
+]
